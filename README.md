@@ -32,10 +32,10 @@ int main()
 ![image](https://github.com/Jayabharathi3/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120367796/4873ac0d-4c6e-4bc3-b4c5-085c9f7f3900)
 
 
-
 ## RESULT:
 Thus the implementation of the program for first come first serve disc scheduling has been
 successfully executed
+
 
 # SHORTEST SEEK TIME FIRST
 
@@ -85,11 +85,9 @@ int main()
 ![image](https://github.com/Jayabharathi3/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120367796/cd71b79a-fb2b-4a0b-a8d7-405c720acafe)
 
 
-
 ## RESULT:
 Thus the implementation of the program for shortest seek time first disc scheduling has been
 successfully executed.
-
 
 
 # SCAN
@@ -184,6 +182,7 @@ Thus the implementation of the program for SCAN disc scheduling has been success
 
 
 # LOOK
+
 
 ## AIM:
 To write a program for the LOOK method of disc scheduling.
