@@ -26,16 +26,13 @@ int main()
     printf("Total head moment is %d",TotalHeadMoment);
     return 0;
 }
-
 ```
 
 ## OUTPUT:
-
 ![image](https://github.com/Jayabharathi3/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120367796/4873ac0d-4c6e-4bc3-b4c5-085c9f7f3900)
 
 
 ## RESULT:
-
 Thus the implementation of the program for first come first serve disc scheduling has been
 successfully executed
 
@@ -79,14 +76,10 @@ int main()
     printf("Total head movement is %d",TotalHeadMoment);
     return 0;
 }
-
-
 ```
 
 ## OUTPUT:
-
 ![image](https://github.com/Jayabharathi3/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120367796/cd71b79a-fb2b-4a0b-a8d7-405c720acafe)
-
 
 ## RESULT:
 Thus the implementation of the program for shortest seek time first disc scheduling has been
@@ -176,7 +169,6 @@ int main()
 ```
 
 ## OUTPUT:
-
 ![image](https://github.com/Jayabharathi3/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120367796/6a6e0480-82f2-446f-a01f-baaa5671485d)
 
 
@@ -185,7 +177,6 @@ Thus the implementation of the program for SCAN disc scheduling has been success
 
 
 # LOOK
-
 
 ## AIM:
 To write a program for the LOOK method of disc scheduling.
@@ -259,12 +250,10 @@ int main()
     printf("Total head movement is %d",TotalHeadMoment);
     return 0;
 }
-
 ```
 
 ## OUTPUT :
 ![image](https://github.com/Jayabharathi3/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120367796/aff0bac6-3da9-4217-9c96-dee5e0b4141f)
-
 
 ## RESULT :
 Thus the implementation of the program for LOOK disc scheduling has been successfully executed.
