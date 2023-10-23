@@ -26,13 +26,16 @@ int main()
     printf("Total head moment is %d",TotalHeadMoment);
     return 0;
 }
+
 ```
 
 ## OUTPUT:
+
 ![image](https://github.com/Jayabharathi3/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120367796/4873ac0d-4c6e-4bc3-b4c5-085c9f7f3900)
 
 
 ## RESULT:
+
 Thus the implementation of the program for first come first serve disc scheduling has been
 successfully executed
 
