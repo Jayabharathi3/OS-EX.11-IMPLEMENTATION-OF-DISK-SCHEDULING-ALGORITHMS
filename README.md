@@ -97,17 +97,6 @@ successfully executed.
 ## AIM:
 To write a program for the SCAN method of disc scheduling
 
-## ALGORITHM:
-
-Step 1: Let the Request array represents an array storing indexes of tracks that have been requested in ascending order of their time of arrival. ‘head’ is the position of the disk head.
-Step 2: Let direction represents whether the head is moving towards left or right.
-Step 3: In the direction in which the head is moving, service all tracks one by one.
-Step 4: Calculate the absolute distance of the track from the head.
-Step 5: Increment the total seek count with this distance.
-Step 6: Currently serviced track position now becomes the new head position.
-Step 7: Go to step 3 until we reach one of the ends of the disk.
-Step 8: If we reach the end of the disk reverse the direction and go to step 2 until all tracks in the request array have not been serviced.
-
 ## PROGRAM:
 ```C
 #include<stdio.h>
